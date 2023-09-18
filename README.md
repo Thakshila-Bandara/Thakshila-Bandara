@@ -1,7 +1,7 @@
 # Hi there, I'm Thakshila 👋
 
 # 📊 GitHub Stats:
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Thakshila-Bandara&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"/>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thakshila-Bandara&theme=prussian&hide_border=false"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakshila-Bandara&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 # 💻 Tech Stack:
